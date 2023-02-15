@@ -1,0 +1,43 @@
+.container_all {
+    position: relative;
+    margin: auto;
+    width: 80%;
+    height: 100vh;
+}
+.title {
+    margin-left: 42%;
+}
+
+.name {
+    float: right;
+}
+
+.container_one {
+    position: absolute;
+    width: 100%;
+    top: 8%;
+}
+
+.container_twe {
+    position: absolute;
+    width: 100%;
+    top: 20%;
+    border: 0.2em solid #212529;
+    height: 14em;
+}
+
+.product_border {
+    border-bottom: 0.2em solid #212529;
+    border-top: 0.2em solid #212529;
+    position: absolute;
+    width: 100%;
+    top: 14%;
+    height: 43%;
+}
+
+
+.address_border {
+    position: absolute;
+    width: 100%;
+    top: 59%;
+}
